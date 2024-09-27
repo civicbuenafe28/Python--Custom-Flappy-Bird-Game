@@ -1,0 +1,17 @@
+REQUIREMENTS:
+- install VS Code or any code programming platforms.
+- install python or windows powershell to run it without using VS Code when executing a python file.
+- install pygame in your respected ide or i reccommend to install VS Code on installing pygame. Install pygame using "pip install pygame" in the terminal to run a pygame.
+
+NOTE:
+- the main.py is my code that i mostly put it on, sprites is my assets or the images that i inserted in the main.py file.
+- PDF File: is where i explain my code of how it functions or works.
+
+
+TO WORK ON RUNNING MY CODE ON OTHER COMPUTERS:
+- the folder "SPRITES" and "MAIN.PY" must be in one file directory to run the pygame especially when you run the code in VS Code (Sprites + Main.py).
+
+
+ONE CLICK TO RUN THE EXECUTION FILE OUTSIDE VS CODE:
+- click "BUENAFE-FLAPPY BIRD GAME" to run the application without using VS Code.
+
