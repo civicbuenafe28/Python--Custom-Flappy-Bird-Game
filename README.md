@@ -1,2 +1,2 @@
 # Flappy Bird Game using Python
-A Final Project from Computer Programming 1 in CP101 Class
+A Final Project that focuses a game and animation using python language
